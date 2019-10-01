@@ -1,0 +1,22 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle"
+    }
+  ],
+  "employees": [
+    {
+      "name": "kevin",
+      "pay": 13
+    },
+    {},
+    {},
+    {}
+  ],
+  "locations": [
+    {},
+    {}
+  ]
+}
